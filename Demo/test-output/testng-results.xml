@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T15:15:55 IST" name="Default suite" finished-at="2022-06-15T15:16:37 IST" duration-ms="41478">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T15:15:55 IST" name="Default test" finished-at="2022-06-15T15:16:37 IST" duration-ms="41478">
+      <class name="retirementCalculator.calculator">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:retirementCalculator.calculator@6c80d78a]" started-at="2022-06-15T15:15:55 IST" name="setUp" finished-at="2022-06-15T15:16:06 IST" duration-ms="10990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testToCheckByFillingAllFields()[pri:0, instance:retirementCalculator.calculator@6c80d78a]" started-at="2022-06-15T15:16:06 IST" name="testToCheckByFillingAllFields" finished-at="2022-06-15T15:16:34 IST" duration-ms="27762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testToCheckByFillingAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:retirementCalculator.calculator@6c80d78a]" started-at="2022-06-15T15:16:34 IST" name="tearDown" finished-at="2022-06-15T15:16:37 IST" duration-ms="2683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- retirementCalculator.calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
